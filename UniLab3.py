@@ -1,7 +1,7 @@
 # -*- coding: cp1251 -*-
 
 import random
-
+from unicodedata import normalize
 
 while True:
     checker = False
